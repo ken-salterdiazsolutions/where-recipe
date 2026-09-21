@@ -1,20 +1,18 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
-
+about: An idea for Where Recipe.
+title: "[Idea] "
+labels: enhancement
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**What you are trying to do**
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+The situation, not the solution. What gets in the way today?
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Idea**
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+How you would like it to work.
+
+**Browser you use**
+
+Firefox, Firefox for Android, Chrome, Edge
