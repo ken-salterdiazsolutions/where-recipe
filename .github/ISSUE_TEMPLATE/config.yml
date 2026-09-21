@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/ken-salterdiazsolutions/where-recipe/security/policy
+    about: Report privately by email. Do not open a public issue.
+  - name: Where Recipe home
+    url: https://salterdiazsolutions.com/where-recipe
+    about: What it does, privacy policy, install links.
