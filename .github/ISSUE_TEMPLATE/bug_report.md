@@ -1,38 +1,46 @@
 ---
 name: Bug report
 about: Something in Where Recipe does not work as it should.
-title: ''
-labels: ''
-assignees: ''
-
+title: "[Bug] "
+labels: bug
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+<!--
+For a recipe that is missing, incomplete or wrong on one site, use "Site problem" instead.
+For security issues, do not open an issue. See the security policy.
+-->
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**What happened**
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+What you saw, and what you expected instead.
+
+**Steps to reproduce**
+
+1. Open https://
+2. Click Where Recipe
+3.
+
+**Recipe page**
+
+https://
+
+**Where it happens**
+
+- [ ] Recipe card
+- [ ] Recipe in its own tab
+- [ ] Shopping list
+- [ ] Copy, Email or Print
+- [ ] Notice on an opted-in site
+- [ ] Settings
+
+**Browser and version**
+
+e.g. Firefox 143, Firefox for Android, Chrome 140, Edge
+
+**Where Recipe version**
+
+In about:addons (Firefox) or chrome://extensions (Chrome). e.g. 1.0.0
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+Optional. Drag images here. Crop out anything personal.
